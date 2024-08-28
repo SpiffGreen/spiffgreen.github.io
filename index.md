@@ -9,7 +9,7 @@ Rivers State University, Nigeria.
 E-mail:   spiffjekeygreen{At}gmail.com  or  spiff.jecky{At}ust.edu.ng  
 
 #### Research interests:
-computer vision, scene understanding, 3D deep learning, Generative AI, etc.   
+Software engineering, blockchain and application of AI in blockchain.
 
 
 ## About me
