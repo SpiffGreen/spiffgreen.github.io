@@ -6,7 +6,7 @@ Computer Scientist
   
 Department of Computer Science 
 Rivers State University, Nigeria.   
-E-mail:   spiffjekeygreen{At}gmail.com  or  spiff.jecky{At}rsu.edu.sg  
+E-mail:   spiffjekeygreen{At}gmail.com  or  spiff.jecky{At}ust.edu.ng  
 
 #### Research interests:
 computer vision, scene understanding, 3D deep learning, Generative AI, etc.   
